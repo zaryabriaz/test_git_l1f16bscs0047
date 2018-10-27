@@ -1,4 +1,4 @@
-name=Zaryab riaz
+name=Zaryab
 email =zaryabriaz@ucp.edu.pk
 faculty=
 faculty of information technology
