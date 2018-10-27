@@ -1,1 +1,4 @@
-"name=Zaryab riaz"
+name=Zaryab riaz
+email =zaryabriaz@ucp.edu.pk
+faculty=
+faculty of information technology
